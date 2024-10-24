@@ -1,4 +1,4 @@
-package WEEK4;
+package MINGGUKE4;
 import java.util.Scanner;
 
 public class Bintang {
@@ -16,5 +16,5 @@ public class Bintang {
         }
 
         scanner.close();
-    }    
+    }
 }

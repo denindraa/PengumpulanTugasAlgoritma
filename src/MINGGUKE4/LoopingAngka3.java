@@ -1,4 +1,4 @@
-package WEEK4;
+package MINGGUKE4;
 
 public class LoopingAngka3 {
     public static void main(String[] args) {
@@ -14,4 +14,3 @@ public class LoopingAngka3 {
         }
     }
 }
-
